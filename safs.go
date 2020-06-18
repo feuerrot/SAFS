@@ -6,7 +6,7 @@ import (
 	"github.com/jessevdk/go-assets"
 )
 
-// StaticAssetsFS is FIXME
+// StaticAssetsFS is an asset FS with some functions to use it for gin-contrib/static
 type StaticAssetsFS struct {
 	fs *assets.FileSystem
 }
