@@ -1,4 +1,4 @@
-module github.com/feuerrot/SAFS
+module github.com/feuerrot/safs
 
 go 1.14
 
